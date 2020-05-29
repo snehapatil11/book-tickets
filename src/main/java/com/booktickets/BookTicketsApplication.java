@@ -3,14 +3,16 @@ package com.booktickets;
 import java.util.Arrays;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 import org.springframework.boot.SpringApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
+@EnableJpaAuditing
 public class BookTicketsApplication {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         SpringApplication.run(BookTicketsApplication.class, args);
     }
 
@@ -27,6 +29,10 @@ public class BookTicketsApplication {
             }
 
         };
+    }*/
+
+    public static void main(String[] args) {
+        SpringApplication.run(BookTicketsApplication.class, args);
     }
 
 }
