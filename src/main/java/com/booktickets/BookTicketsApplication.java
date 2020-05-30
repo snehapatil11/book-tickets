@@ -12,11 +12,11 @@ import org.springframework.context.annotation.Bean;
 @EnableJpaAuditing
 public class BookTicketsApplication {
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         SpringApplication.run(BookTicketsApplication.class, args);
     }
 
-    @Bean
+    /*@Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
 
@@ -31,8 +31,6 @@ public class BookTicketsApplication {
         };
     }*/
 
-    public static void main(String[] args) {
-        SpringApplication.run(BookTicketsApplication.class, args);
-    }
+
 
 }
