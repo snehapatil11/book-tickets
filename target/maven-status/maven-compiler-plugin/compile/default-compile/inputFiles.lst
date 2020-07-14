@@ -1,6 +1,9 @@
+/home/sneha/book-tickets/src/main/java/com/booktickets/repository/ShowRepository.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/repository/NoteRepository.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/BookTicketsApplication.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/model/Note.java
+/home/sneha/book-tickets/src/main/java/com/booktickets/controller/ShowController.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/controller/NoteController.java
+/home/sneha/book-tickets/src/main/java/com/booktickets/model/Show.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/controller/IndexController.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/exception/ResourceNotFoundException.java
