@@ -7,6 +7,8 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 import javax.persistence.*;
 import java.util.Date;
+import java.util.Set;
+import java.time.LocalDateTime;
 
 @Entity
 @Table(name = "shows")
@@ -27,6 +29,9 @@ public class Show {
     private Integer showDuration;
 
     private String Location;
+
+    @ManyToMany(mappedBy = "shows")
+    private Set<Actor> actors;
 
     @Column(nullable = false, updatable = false)
     @Temporal(TemporalType.TIMESTAMP)
