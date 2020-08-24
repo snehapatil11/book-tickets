@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8334d905-d7a5-428d-8993-511b8861bd87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/ActorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/ShowSessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/DiscountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/UserBookingsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/ShowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booktickets/controller/ShowController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/book-tickets-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
@@ -81,7 +81,7 @@
       <workItem from="1591161630444" duration="1486000" />
       <workItem from="1594165045579" duration="3910000" />
       <workItem from="1594748004973" duration="1202000" />
-      <workItem from="1598206385628" duration="7951000" />
+      <workItem from="1598206385628" duration="10839000" />
     </task>
     <servers />
   </component>
@@ -108,6 +108,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1590787857173" />
+    <state x="396" y="198" width="631" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598230903486">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="396" y="198" width="631" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1598230903486" />
     <state x="338" y="141" width="735" height="513" key="FileChooserDialogImpl" timestamp="1590968932672">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -120,5 +124,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="100" width="1289" height="592" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1590877598049" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1598231038109">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1598231038109" />
   </component>
 </project>

@@ -27,7 +27,7 @@ public class UserBookings {
 
     private Integer noOfBookings;
 
-    private String seatNmber;
+    private String seatNumber;
 
     private Integer price;
 

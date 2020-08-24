@@ -1,3 +1,4 @@
+/home/sneha/book-tickets/src/main/java/com/booktickets/controller/DiscountController.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/repository/NoteRepository.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/controller/ShowSessionController.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/repository/DiscountRepository.java
@@ -7,6 +8,8 @@
 /home/sneha/book-tickets/src/main/java/com/booktickets/repository/ActorRepository.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/repository/UserBookingsRepository.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/model/Show.java
+/home/sneha/book-tickets/src/main/java/com/booktickets/controller/UserBookingsController.java
+/home/sneha/book-tickets/src/main/java/com/booktickets/controller/UserController.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/model/UserBookings.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/repository/ShowSessionRepository.java
 /home/sneha/book-tickets/src/main/java/com/booktickets/model/User.java
