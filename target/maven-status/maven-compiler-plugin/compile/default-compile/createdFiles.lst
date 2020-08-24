@@ -1,6 +1,7 @@
 com/booktickets/model/User.class
 com/booktickets/repository/ShowSessionRepository.class
 com/booktickets/repository/ShowRepository.class
+com/booktickets/controller/ShowSessionController.class
 com/booktickets/repository/ActorRepository.class
 com/booktickets/repository/UserBookingsRepository.class
 com/booktickets/BookTicketsApplication.class
@@ -10,6 +11,7 @@ com/booktickets/repository/DiscountRepository.class
 com/booktickets/repository/UserRepository.class
 com/booktickets/model/Show.class
 com/booktickets/repository/NoteRepository.class
+com/booktickets/controller/ActorController.class
 com/booktickets/model/Discount.class
 com/booktickets/exception/ResourceNotFoundException.class
 com/booktickets/model/Actor.class
